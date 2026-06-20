@@ -54,6 +54,25 @@ python3 research/other/make_index.py
 is immediately navigable. Run it standalone any time to refresh the indexes
 (e.g. after manually adding files to `research/other/` content folders).
 
+## `make_creator_prs.sh`
+
+Creates **one pull request per creator's collected transcripts**. For every
+creator that has files under `research/youtube-transcripts/<slug>/`, it cuts an
+isolated branch off `main`, commits only that creator's transcript folder, pushes
+it, and opens a PR via the GitHub CLI.
+
+```bash
+# after collect.py has populated transcripts locally:
+research/other/make_creator_prs.sh                # all creators with transcripts
+research/other/make_creator_prs.sh josh-braun     # just one creator
+BASE=main research/other/make_creator_prs.sh      # override base branch
+```
+
+Requires `git` and an authenticated `gh` CLI, and must run where the transcripts
+actually exist on disk (i.e. locally — this web environment's egress blocks
+`api.supadata.ai`, so collection can't run here). One creator == one branch ==
+one PR; pushes retry with backoff on transient network errors.
+
 ## `creators.json`
 
 The source-of-truth list of benchmark creators (slug, name, archetype, YouTube
