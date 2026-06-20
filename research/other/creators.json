@@ -1,18 +1,15 @@
 {
-  "description": "Benchmark creators for B2B SaaS content research. Used by collect.py to pull recent content via the Supadata API.",
+  "description": "Top-10 benchmark creators for B2B SaaS content research, selected by quality score. Used by collect.py to pull recent content via the Supadata API. Score is /25 across: B2B-SaaS relevance, content craft, cadence/volume, repurposability, archetype uniqueness.",
   "creators": [
-    { "slug": "dan-martell",        "name": "Dan Martell",        "archetype": "founder-operator-educator", "youtube": "https://www.youtube.com/@DanMartell",        "linkedin": "https://www.linkedin.com/in/danmartell" },
-    { "slug": "jason-lemkin",       "name": "Jason Lemkin",       "archetype": "founder-operator-educator", "youtube": "https://www.youtube.com/@SaaStr",            "linkedin": "https://www.linkedin.com/in/jasonmlemkin" },
-    { "slug": "nathan-latka",       "name": "Nathan Latka",       "archetype": "founder-operator-educator", "youtube": "https://www.youtube.com/@NathanLatka",        "linkedin": "https://www.linkedin.com/in/nathanlatka" },
-    { "slug": "noah-kagan",         "name": "Noah Kagan",         "archetype": "founder-operator-educator", "youtube": "https://www.youtube.com/@noahkagan",         "linkedin": "https://www.linkedin.com/in/noahkagan" },
-    { "slug": "neil-patel",         "name": "Neil Patel",         "archetype": "marketing-growth-practitioner", "youtube": "https://www.youtube.com/@neilpatel",      "linkedin": "https://www.linkedin.com/in/neilkpatel" },
-    { "slug": "eric-siu",           "name": "Eric Siu",           "archetype": "marketing-growth-practitioner", "youtube": "https://www.youtube.com/@LevelingUpOfficial", "linkedin": "https://www.linkedin.com/in/ericosiu" },
-    { "slug": "adam-erhart",        "name": "Adam Erhart",        "archetype": "marketing-growth-practitioner", "youtube": "https://www.youtube.com/@Adamerhartvideo", "linkedin": "https://www.linkedin.com/in/adamerhart" },
-    { "slug": "sujan-patel",        "name": "Sujan Patel",        "archetype": "marketing-growth-practitioner", "youtube": null,                                       "linkedin": "https://www.linkedin.com/in/sujanpatel" },
-    { "slug": "gary-vaynerchuk",    "name": "Gary Vaynerchuk",    "archetype": "marketing-growth-practitioner", "youtube": "https://www.youtube.com/@garyvee",         "linkedin": "https://www.linkedin.com/in/garyvaynerchuk" },
-    { "slug": "chris-walker",       "name": "Chris Walker",       "archetype": "b2b-demand-gen-positioning", "youtube": "https://www.youtube.com/@RefineLabs",         "linkedin": "https://www.linkedin.com/in/chriswalker171" },
-    { "slug": "dave-gerhardt",      "name": "Dave Gerhardt",      "archetype": "b2b-demand-gen-positioning", "youtube": "https://www.youtube.com/@exitfive",           "linkedin": "https://www.linkedin.com/in/davegerhardt" },
-    { "slug": "lenny-rachitsky",    "name": "Lenny Rachitsky",    "archetype": "interview-podcast-led",      "youtube": "https://www.youtube.com/@LennysPodcast",      "linkedin": "https://www.linkedin.com/in/lennyrachitsky" },
-    { "slug": "josh-braun",         "name": "Josh Braun",         "archetype": "sales-outbound",             "youtube": "https://www.youtube.com/@JoshBraun",          "linkedin": "https://www.linkedin.com/in/josh-braun" }
+    { "slug": "lenny-rachitsky", "name": "Lenny Rachitsky", "archetype": "interview-podcast-led",          "score": 24, "rank": 1,  "youtube": "https://www.youtube.com/@LennysPodcast",      "linkedin": "https://www.linkedin.com/in/lennyrachitsky" },
+    { "slug": "dan-martell",     "name": "Dan Martell",     "archetype": "founder-operator-educator",      "score": 23, "rank": 2,  "youtube": "https://www.youtube.com/@DanMartell",         "linkedin": "https://www.linkedin.com/in/danmartell" },
+    { "slug": "neil-patel",      "name": "Neil Patel",      "archetype": "marketing-growth-practitioner",  "score": 23, "rank": 3,  "youtube": "https://www.youtube.com/@neilpatel",          "linkedin": "https://www.linkedin.com/in/neilkpatel" },
+    { "slug": "josh-braun",      "name": "Josh Braun",      "archetype": "sales-outbound",                 "score": 23, "rank": 4,  "youtube": "https://www.youtube.com/@JoshBraun",          "linkedin": "https://www.linkedin.com/in/josh-braun" },
+    { "slug": "chris-walker",    "name": "Chris Walker",    "archetype": "b2b-demand-gen-positioning",     "score": 22, "rank": 5,  "youtube": "https://www.youtube.com/@RefineLabs",         "linkedin": "https://www.linkedin.com/in/chriswalker171" },
+    { "slug": "jason-lemkin",    "name": "Jason Lemkin",    "archetype": "founder-operator-educator",      "score": 22, "rank": 6,  "youtube": "https://www.youtube.com/@SaaStr",             "linkedin": "https://www.linkedin.com/in/jasonmlemkin" },
+    { "slug": "eric-siu",        "name": "Eric Siu",        "archetype": "marketing-growth-practitioner",  "score": 22, "rank": 7,  "youtube": "https://www.youtube.com/@LevelingUpOfficial", "linkedin": "https://www.linkedin.com/in/ericosiu" },
+    { "slug": "adam-erhart",     "name": "Adam Erhart",     "archetype": "marketing-growth-practitioner",  "score": 21, "rank": 8,  "youtube": "https://www.youtube.com/@Adamerhartvideo",    "linkedin": "https://www.linkedin.com/in/adamerhart" },
+    { "slug": "dave-gerhardt",   "name": "Dave Gerhardt",   "archetype": "b2b-demand-gen-positioning",     "score": 21, "rank": 9,  "youtube": "https://www.youtube.com/@exitfive",           "linkedin": "https://www.linkedin.com/in/davegerhardt" },
+    { "slug": "noah-kagan",      "name": "Noah Kagan",      "archetype": "founder-operator-educator",      "score": 19, "rank": 10, "youtube": "https://www.youtube.com/@noahkagan",          "linkedin": "https://www.linkedin.com/in/noahkagan" }
   ]
 }
