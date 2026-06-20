@@ -25,15 +25,20 @@ archetype uniqueness.** `creators.json` is the source of truth that drives
 | 2 | Dan Martell | Founder / operator educator | 23 |
 | 3 | Neil Patel | Marketing / growth practitioner | 23 |
 | 4 | Josh Braun | Sales / outbound | 23 |
-| 5 | Chris Walker | B2B demand-gen & positioning | 22 |
+| 5 | April Dunford | B2B demand-gen & positioning | 23 |
 | 6 | Jason Lemkin | Founder / operator educator | 22 |
 | 7 | Eric Siu | Marketing / growth practitioner | 22 |
 | 8 | Adam Erhart | Marketing / growth practitioner | 21 |
 | 9 | Dave Gerhardt | B2B demand-gen & positioning | 21 |
-| 10 | Noah Kagan | Founder / operator educator | 19 |
+| 10 | Adam Robinson | Founder / operator educator | 21 |
 
 **Considered but not selected:**
 
+- **Chris Walker** — once the benchmark for contrarian demand-gen, but his
+  channel has pivoted away from B2B (personal-development content) and Revenue
+  Vitals was handed off, so he's no longer a recurring B2B-video benchmark.
+- **Noah Kagan** — strong craft, but skews general entrepreneurship over B2B
+  SaaS, and his channel's most recent upload is from 2024.
 - **Gary Vaynerchuk** (19) — elite volume/repurposing, but mass-market reach
   dilutes B2B-SaaS relevance.
 - **Nathan Latka** (18) — SaaS-relevant, but his founder-interview lane overlaps
@@ -51,7 +56,7 @@ Real operators teaching from experience — the trust archetype.
 |---|---|---|---|---|
 | **Dan Martell** (SaaS Academy) | Scaling SaaS founders; coaching; "Escape Velocity" interviews, keynotes | Clear, experience-based advice; strong personal brand + interview/keynote repurposing | [@DanMartell](https://www.youtube.com/@DanMartell) | [in/danmartell](https://www.linkedin.com/in/danmartell) |
 | **Jason Lemkin** (SaaStr) | Long talks, keynotes, panels from major SaaS events | Turning event content into an evergreen library; real operator stories at scale | [@SaaStr](https://www.youtube.com/@SaaStr) | [in/jasonmlemkin](https://www.linkedin.com/in/jasonmlemkin) |
-| **Noah Kagan** (Noah Kagan Presents) | Building businesses/SaaS, experiments, founder interviews | Energetic, experiment-driven storytelling; strong hooks and thumbnails | [@noahkagan](https://www.youtube.com/@noahkagan) | [in/noahkagan](https://www.linkedin.com/in/noahkagan) |
+| **Adam Robinson** (RB2B / Retention.com) | Bootstrapped B2B SaaS founder; GTM, cold email, founder-led content | Building two bootstrapped SaaS to ~$30M ARR in public; weekly no-BS SaaS tactics and strong founder-brand playbook | [@retentionadam](https://www.youtube.com/@retentionadam) | [in/retentionadam](https://www.linkedin.com/in/retentionadam) |
 
 ## 2. Marketing / growth practitioners
 
@@ -69,7 +74,7 @@ Contrarian POV and frameworks aimed squarely at B2B SaaS marketers.
 
 | Creator / channel | Focus | Why benchmark them | YouTube | LinkedIn |
 |---|---|---|---|---|
-| **Chris Walker** (Revenue Vitals / Refine Labs) | Demand generation, dark social, GTM measurement | The benchmark for contrarian POV + framework content that drives a category conversation | [@RefineLabs](https://www.youtube.com/@RefineLabs) | [in/chriswalker171](https://www.linkedin.com/in/chriswalker171) |
+| **April Dunford** (The Positioning Show) | B2B product positioning, messaging, market category, sales pitch | The benchmark for B2B positioning — tight, framework-driven single-topic episodes from the author of *Obviously Awesome* and *Sales Pitch* | [@positioningshow](https://www.youtube.com/@positioningshow) | [in/aprildunford](https://www.linkedin.com/in/aprildunford) |
 | **Dave Gerhardt** (Exit Five) | B2B positioning, messaging, brand, sales-marketing alignment | Community-led B2B marketing content; strong narrative and opinion | [@exitfive](https://www.youtube.com/@exitfive) | [in/davegerhardt](https://www.linkedin.com/in/davegerhardt) |
 
 ## 4. Interview / podcast-led (deep authority)

@@ -22,7 +22,7 @@ the source of truth that drives collection.
 The selection is grouped by archetype:
 
 1. **Founder / operator educators** — *the trust archetype.* Real operators
-   teaching from lived experience (Dan Martell, Jason Lemkin, Noah Kagan).
+   teaching from lived experience (Dan Martell, Jason Lemkin, Adam Robinson).
    Benchmarked for experience-based authority and turning interviews/keynotes
    into evergreen libraries.
 2. **Marketing / growth practitioners** — tactics and frameworks from people who
@@ -30,7 +30,7 @@ The selection is grouped by archetype:
    for high-volume how-to production, tight single-topic scripting, and
    one-input-to-many repurposing.
 3. **B2B demand-gen & positioning voices** — contrarian POV aimed squarely at
-   B2B SaaS marketers (Chris Walker, Dave Gerhardt). Benchmarked for
+   B2B SaaS marketers (April Dunford, Dave Gerhardt). Benchmarked for
    framework-driven, category-defining opinion content.
 4. **Interview / podcast-led (deep authority)** — Lenny Rachitsky. The benchmark
    for interview depth: booking great guests, tight chaptering, and atomizing
