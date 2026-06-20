@@ -9,8 +9,8 @@
       "video": { "id": "WQHJcSiTc7s", "url": "https://www.youtube.com/watch?v=WQHJcSiTc7s", "title": "The New Sales Playbook: Gen Z vs Boomers", "channel": "Neil Patel", "publishedAt": "2026-06-17" } },
     { "slug": "josh-braun",      "name": "Josh Braun",      "archetype": "sales-outbound",                "score": 23, "rank": 4,  "youtube": "https://www.youtube.com/@JoshBraun",          "linkedin": "https://www.linkedin.com/in/josh-braun",
       "video": { "id": "9_BeKzJlOXs", "url": "https://www.youtube.com/watch?v=9_BeKzJlOXs", "title": "How to Build Trust Instantly", "channel": "Josh Braun", "publishedAt": "2026-06-17" } },
-    { "slug": "chris-walker",    "name": "Chris Walker",    "archetype": "b2b-demand-gen-positioning",    "score": 22, "rank": 5,  "youtube": "https://www.youtube.com/@RefineLabs",         "linkedin": "https://www.linkedin.com/in/chriswalker171",
-      "video": { "id": "A8lov65xWgo", "url": "https://www.youtube.com/watch?v=A8lov65xWgo", "title": "The 3 Pillars of GTM Success", "channel": "Chris Walker", "publishedAt": "2025-03-04" } },
+    { "slug": "april-dunford",   "name": "April Dunford",   "archetype": "b2b-demand-gen-positioning",    "score": 23, "rank": 5,  "youtube": "https://www.youtube.com/@positioningshow",    "linkedin": "https://www.linkedin.com/in/aprildunford",
+      "video": { "id": "D9pf_iEomjY", "url": "https://www.youtube.com/watch?v=D9pf_iEomjY", "title": "Post Positioning - Testing and Execution", "channel": "April Dunford", "publishedAt": "2026-04-02" } },
     { "slug": "jason-lemkin",    "name": "Jason Lemkin",    "archetype": "founder-operator-educator",     "score": 22, "rank": 6,  "youtube": "https://www.youtube.com/@SaaStr",             "linkedin": "https://www.linkedin.com/in/jasonmlemkin",
       "video": { "id": "Pu4IERjQWaM", "url": "https://www.youtube.com/watch?v=Pu4IERjQWaM", "title": "$4 Trillion in IPOs, $100B in M&A, and Why B2B Spend is Booming", "channel": "SaaStr", "publishedAt": "2026-06-11" } },
     { "slug": "eric-siu",        "name": "Eric Siu",        "archetype": "marketing-growth-practitioner", "score": 22, "rank": 7,  "youtube": "https://www.youtube.com/@LevelingUpOfficial", "linkedin": "https://www.linkedin.com/in/ericosiu",
@@ -19,7 +19,7 @@
       "video": { "id": "sFSeMVQnsRc", "url": "https://www.youtube.com/watch?v=sFSeMVQnsRc", "title": "How to Sign Your First Client This Week Without Cold Email", "channel": "Adam Erhart", "publishedAt": "2026-06-19" } },
     { "slug": "dave-gerhardt",   "name": "Dave Gerhardt",   "archetype": "b2b-demand-gen-positioning",    "score": 21, "rank": 9,  "youtube": "https://www.youtube.com/@heydavegerhardt",    "linkedin": "https://www.linkedin.com/in/davegerhardt",
       "video": { "id": "VfmYv_QRUpM", "url": "https://www.youtube.com/watch?v=VfmYv_QRUpM", "title": "How to Stand Out When Everyone is Using AI (Copywriting Masterclass)", "channel": "The Dave Gerhardt Show", "publishedAt": "2026-06-18" } },
-    { "slug": "noah-kagan",      "name": "Noah Kagan",      "archetype": "founder-operator-educator",     "score": 19, "rank": 10, "youtube": "https://www.youtube.com/@noahkagan",          "linkedin": "https://www.linkedin.com/in/noahkagan",
-      "video": { "id": "iQ7oJRgj1-4", "url": "https://www.youtube.com/watch?v=iQ7oJRgj1-4", "title": "POV: You’re Running a $96M / year Business", "channel": "Noah Kagan", "publishedAt": "2024-08-13" } }
+    { "slug": "adam-robinson",   "name": "Adam Robinson",   "archetype": "founder-operator-educator",     "score": 21, "rank": 10, "youtube": "https://www.youtube.com/@retentionadam",      "linkedin": "https://www.linkedin.com/in/retentionadam",
+      "video": { "id": "eUzqVJpZPP4", "url": "https://www.youtube.com/watch?v=eUzqVJpZPP4", "title": "How I Write LinkedIn Posts That Get 100,000+ Views", "channel": "Adam Robinson", "publishedAt": "2026-04-16" } }
   ]
 }
