@@ -34,6 +34,26 @@ environment's egress allowlist, or run the script locally / in CI with outbound
 access. See
 [Claude Code on the web — network access](https://code.claude.com/docs/en/claude-code-on-the-web).
 
+## `make_index.py`
+
+Generates navigable tables of contents for collected content:
+
+- `research/youtube-transcripts/<slug>/index.md` — per-creator video TOC
+- `research/linkedin-posts/<slug>/index.md` — per-creator post TOC
+- `research/index.md` — master TOC across all creators (with counts + scores)
+
+Each entry shows the item title (linked), date, source URL, and a short preview,
+parsed from the metadata `collect.py` writes. It only indexes directories that
+contain content, rewrites indexes idempotently, and never fails a collection run.
+
+```bash
+python3 research/other/make_index.py
+```
+
+`collect.py` calls this automatically at the end of a run, so a fresh collection
+is immediately navigable. Run it standalone any time to refresh the indexes
+(e.g. after manually adding files to `research/other/` content folders).
+
 ## `creators.json`
 
 The source-of-truth list of benchmark creators (slug, name, archetype, YouTube

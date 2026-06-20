@@ -53,6 +53,7 @@ links — lives in [`research/sources.md`](research/sources.md).
 
 ```
 research/
+├── index.md              # Auto-generated navigable TOC of all collected content
 ├── sources.md            # Master list: every expert with links, dates, annotations
 ├── linkedin-posts/       # Recent LinkedIn posts, organized by author
 │   └── <author-slug>/

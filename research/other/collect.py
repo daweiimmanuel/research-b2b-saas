@@ -208,6 +208,14 @@ def main() -> int:
             totals["linkedin"] += collect_linkedin(c, args.limit, api_key)
 
     print(f"\nDone. YouTube files: {totals['youtube']}, LinkedIn files: {totals['linkedin']}")
+
+    # Refresh the navigable indexes so collected files get a TOC immediately.
+    try:
+        import make_index
+        make_index.build_all()
+        print("Indexes regenerated (research/index.md + per-creator index.md).")
+    except Exception as e:  # indexing is best-effort; never fail the collection
+        print(f"Note: index generation skipped ({e}). Run make_index.py manually.")
     return 0
 
 
