@@ -12,16 +12,23 @@ list isn't "famous marketers," it's "one strong model per way of building an
 audience." That makes it possible to pick the creator whose model matches what
 you want to build, then study exactly how they do it.
 
+The list was reduced from 13 candidates to the **10 strongest** using a
+transparent rubric — each scored **/25** across **B2B-SaaS relevance · content
+craft · cadence/volume · repurposability · archetype uniqueness.** See the full
+scoring table (and the three considered-but-not-selected creators) in
+[`research/sources.md`](research/sources.md). `research/other/creators.json` is
+the source of truth that drives collection.
+
 The selection is grouped by archetype:
 
 1. **Founder / operator educators** — *the trust archetype.* Real operators
-   teaching from lived experience (Dan Martell, Jason Lemkin, Nathan Latka,
-   Noah Kagan). Benchmarked for experience-based authority and turning
-   interviews/keynotes into evergreen libraries.
+   teaching from lived experience (Dan Martell, Jason Lemkin, Noah Kagan).
+   Benchmarked for experience-based authority and turning interviews/keynotes
+   into evergreen libraries.
 2. **Marketing / growth practitioners** — tactics and frameworks from people who
-   run marketing for a living (Neil Patel, Eric Siu, Adam Erhart, Sujan Patel,
-   Gary Vaynerchuk). Benchmarked for high-volume how-to production, tight
-   single-topic scripting, and one-input-to-many repurposing.
+   run marketing for a living (Neil Patel, Eric Siu, Adam Erhart). Benchmarked
+   for high-volume how-to production, tight single-topic scripting, and
+   one-input-to-many repurposing.
 3. **B2B demand-gen & positioning voices** — contrarian POV aimed squarely at
    B2B SaaS marketers (Chris Walker, Dave Gerhardt). Benchmarked for
    framework-driven, category-defining opinion content.
@@ -32,7 +39,8 @@ The selection is grouped by archetype:
    tight, single-idea videos that each teach one move.
 6. **Honest review creators (BOFU benchmark)** — independent reviewers
    (HelperMan, Consumer Research Studios, Merchant Maverick) that dominate
-   AI/search citations for buying-intent queries.
+   AI/search citations for buying-intent queries. Kept as a *reference*
+   benchmark only — not part of the scored top-10 collection set.
 
 The full table — with focus, the specific reason each is a benchmark, and
 links — lives in [`research/sources.md`](research/sources.md).
