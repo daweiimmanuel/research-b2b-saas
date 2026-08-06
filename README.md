@@ -4,6 +4,14 @@ Research repository for studying independent creators and founder-educators in
 the B2B SaaS space — collecting their recent content (LinkedIn posts, YouTube
 transcripts) to benchmark **craft, point of view, and publishing cadence**.
 
+> ## 📘 [**PLAYBOOK.md** — Founder-Led Content → Pipeline](PLAYBOOK.md)
+>
+> The deliverable built from this research: a 90-day SOP for early-stage B2B SaaS,
+> with every recommendation cited to a specific collected artifact. Includes where
+> the experts disagree and which side I take, what I rejected from my own sources
+> and why, my original additions, an honest account of this playbook's weaknesses,
+> and which of the 10 researched experts I would not recommend following.
+
 ## Why these experts
 
 These are individuals already producing content worth studying. They were chosen
